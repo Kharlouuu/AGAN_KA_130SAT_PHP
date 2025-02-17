@@ -5,15 +5,8 @@
     <title>Demo</title>
 </head>
 <body>
-
     <h1>
-        <?php
-            $greeting = "Hello";
-            $noun = "World";
-
-            echo "$greeting $noun" . "!"
-        ?> 
+        <?= 'Hello World' ?>
     </h1>
-
 </body>
 </html>
