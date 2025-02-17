@@ -9,9 +9,10 @@
     <h1>
         <?php
             $greeting = "Hello";
+            $noun = "World";
 
-            echo "$greeting Everybody!"
-        ?>
+            echo "$greeting $noun" . "!"
+        ?> 
     </h1>
 
 </body>
